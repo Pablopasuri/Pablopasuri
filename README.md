@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pablopasuri
+- 👋 Hi, I’m @john-emakara
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on github
